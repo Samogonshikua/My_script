@@ -1,7 +1,7 @@
-TG_TOKEN = '5432129468:AAH4g5HoYNc7pbSUVQtLBQls1-ceW4zagec' # создать можешь здесь : https://t.me/BotFather
-TG_ID = 513640716 # узнать можешь здесь : https://t.me/getmyid_bot
+TG_TOKEN = '' # создать можешь здесь : https://t.me/BotFather
+TG_ID =  # узнать можешь здесь : https://t.me/getmyid_bot
 
-API_0x = 'a1b01fd6-3f00-48ec-a2ae-56e0251b758e' # получить api key от 0x здесь : https://dashboard.0x.org/apps
+API_0x = '' # получить api key от 0x здесь : https://dashboard.0x.org/apps
 
 # меняем рпс на свои
 DATA = {
